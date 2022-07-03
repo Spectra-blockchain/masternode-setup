@@ -3,7 +3,7 @@
 PORT=17000
 RPCPORT=17001
 CONF_DIR=~/.spectra
-COINZIP='https://github.com/Spectra-blockchain/SPC/releases/download/v1.0/spectra-linux.zip'
+COINZIP='https://github.com/Spectra-blockchain/SPC/releases/download/1.0/spectra-linux.zip'
 
 cd ~
 RED='\033[0;31m'
